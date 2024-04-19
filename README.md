@@ -22,3 +22,7 @@ Installation:
 - rSoccer Gym
 - VcXsrv 
 - Pytorch
+
+For the official RoboCup SSL Repo for UCSD:
+
+https://github.com/hwu27/robocup
